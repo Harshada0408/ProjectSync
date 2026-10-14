@@ -132,7 +132,5 @@ http://localhost:3000
 - Add task activity history and collaboration features.
 - Expand automated testing and deployment workflows.
 
-## License
 
-This repository includes the license and notices applicable to the original project. See the `LICENSE` file for details.
 
